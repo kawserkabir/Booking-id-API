@@ -14,7 +14,7 @@ The Booking API is a RESTful web service designed to facilitate seamless booking
 -Cancel a booking
 -List all bookings for a user
 
-#Booking-api documentation
+# Booking-api documentation
 -https://documenter.getpostman.com/view/30163216/2sAYk7Siv7
 
 # test report
